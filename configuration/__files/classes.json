@@ -1,0 +1,2654 @@
+[
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "0BD97D45-03A4-41A4-BA0D-2BDA0C6A0B9E",
+      "ClassName": "IV B HYD0016072",
+      "ClassShortCode": "HYD0016072",
+      "ProgramName": [
+        "BLP Grade 4"
+      ],
+      "SchoolName": "Mesco Grades School (Malakpet)",
+      "SchoolUUID": "7295ae73-d203-4717-8e64-a646852f257d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "83897CEE-05CB-4FA4-BAD0-3B649D43B4D8",
+      "ClassName": "I A HYD0016041",
+      "ClassShortCode": "HYD0016041",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Mesco Grades School (Malakpet)",
+      "SchoolUUID": "7295ae73-d203-4717-8e64-a646852f257d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "441ADCB7-8715-45A8-BE55-3E3957BC9834",
+      "ClassName": "IV A HYD0016071",
+      "ClassShortCode": "HYD0016071",
+      "ProgramName": [
+        "BLP Grade 4"
+      ],
+      "SchoolName": "Mesco Grades School (Malakpet)",
+      "SchoolUUID": "7295ae73-d203-4717-8e64-a646852f257d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "AD7F7BF0-FF4A-44A5-BF92-477480592D7F",
+      "ClassName": "V B HYD0016082",
+      "ClassShortCode": "HYD0016082",
+      "ProgramName": [
+        "BLP Grade 5"
+      ],
+      "SchoolName": "Mesco Grades School (Malakpet)",
+      "SchoolUUID": "7295ae73-d203-4717-8e64-a646852f257d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "622CC4EE-2BC2-4C36-B6C5-6C0674B9CFD2",
+      "ClassName": "II B HYD0016052",
+      "ClassShortCode": "HYD0016052",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "Mesco Grades School (Malakpet)",
+      "SchoolUUID": "7295ae73-d203-4717-8e64-a646852f257d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "8D00F83C-95DE-4261-9D9C-946534ACB8EB",
+      "ClassName": "III B HYD0016062",
+      "ClassShortCode": "HYD0016062",
+      "ProgramName": [
+        "BLP Grade 3"
+      ],
+      "SchoolName": "Mesco Grades School (Malakpet)",
+      "SchoolUUID": "7295ae73-d203-4717-8e64-a646852f257d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "12F91EC0-6F4B-4512-9D7C-95868CB3E1E2",
+      "ClassName": "I B HYD0016042",
+      "ClassShortCode": "HYD0016042",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Mesco Grades School (Malakpet)",
+      "SchoolUUID": "7295ae73-d203-4717-8e64-a646852f257d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "5BFEF2C4-DCF7-4ADA-8435-B99801D97386",
+      "ClassName": "V A HYD0016081",
+      "ClassShortCode": "HYD0016081",
+      "ProgramName": [
+        "BLP Grade 5"
+      ],
+      "SchoolName": "Mesco Grades School (Malakpet)",
+      "SchoolUUID": "7295ae73-d203-4717-8e64-a646852f257d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "F31787D5-B672-4DBF-8968-D37A7327FC15",
+      "ClassName": "UKG A HYD0016031",
+      "ClassShortCode": "HYD0016031",
+      "ProgramName": [
+        "BLP PP2"
+      ],
+      "SchoolName": "Mesco Grades School (Malakpet)",
+      "SchoolUUID": "7295ae73-d203-4717-8e64-a646852f257d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "B1C41A0B-2A8A-47E0-984D-D48F982CD239",
+      "ClassName": "III A HYD0016061",
+      "ClassShortCode": "HYD0016061",
+      "ProgramName": [
+        "BLP Grade 3"
+      ],
+      "SchoolName": "Mesco Grades School (Malakpet)",
+      "SchoolUUID": "7295ae73-d203-4717-8e64-a646852f257d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "EED48F7F-4D8D-41C1-A1A2-DBABF985F61D",
+      "ClassName": "LKG A HYD0016021",
+      "ClassShortCode": "HYD0016021",
+      "ProgramName": [
+        "BLP PP1"
+      ],
+      "SchoolName": "Mesco Grades School (Malakpet)",
+      "SchoolUUID": "7295ae73-d203-4717-8e64-a646852f257d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "3C4E82F4-9A32-49FD-8024-E69162DC5B45",
+      "ClassName": "II A HYD0016051",
+      "ClassShortCode": "HYD0016051",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "Mesco Grades School (Malakpet)",
+      "SchoolUUID": "7295ae73-d203-4717-8e64-a646852f257d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "14169249-0D66-43AA-AF1D-07BE368578C9",
+      "ClassName": "PP1 ORCHIDS KRL0001123",
+      "ClassShortCode": "KRL0001123",
+      "ProgramName": [
+        "BLP PP1"
+      ],
+      "SchoolName": "Montessori English Medium High School",
+      "SchoolUUID": "58242e89-2445-400a-99dd-6a7971412ca2"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "2E41965B-BDAA-4A39-85D6-1196C79CB49F",
+      "ClassName": "GRADE 4 DONALD KRL0001172",
+      "ClassShortCode": "KRL0001172",
+      "ProgramName": [
+        "BLP Grade 4"
+      ],
+      "SchoolName": "Montessori English Medium High School",
+      "SchoolUUID": "58242e89-2445-400a-99dd-6a7971412ca2"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "3CBFF0C8-0CA8-4DD6-A620-148D4BFA944C",
+      "ClassName": "GRADE 5 MICKEY KRL0001183",
+      "ClassShortCode": "KRL0001183",
+      "ProgramName": [
+        "BLP Grade 5"
+      ],
+      "SchoolName": "Montessori English Medium High School",
+      "SchoolUUID": "58242e89-2445-400a-99dd-6a7971412ca2"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "3EF1FB03-EE2C-432B-A276-22F7828454B0",
+      "ClassName": "I-KIDS MICKEY KRL0001111",
+      "ClassShortCode": "KRL0001111",
+      "ProgramName": [
+        "BLP Nursery"
+      ],
+      "SchoolName": "Montessori English Medium High School",
+      "SchoolUUID": "58242e89-2445-400a-99dd-6a7971412ca2"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "49EC37A3-4D5C-4DA2-910B-2419397D5DAB",
+      "ClassName": "GRADE 3 DONALD KRL0001162",
+      "ClassShortCode": "KRL0001162",
+      "ProgramName": [
+        "BLP Grade 3"
+      ],
+      "SchoolName": "Montessori English Medium High School",
+      "SchoolUUID": "58242e89-2445-400a-99dd-6a7971412ca2"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "A8B255E2-6BBE-4BF9-B921-335039D810D9",
+      "ClassName": "GRADE 1 MICKEY KRL0001145",
+      "ClassShortCode": "KRL0001145",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Montessori English Medium High School",
+      "SchoolUUID": "58242e89-2445-400a-99dd-6a7971412ca2"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "1AD9E946-1BD6-4557-8F18-3EC8EDAD6B14",
+      "ClassName": "GRADE 2 MICKEY KRL0001154",
+      "ClassShortCode": "KRL0001154",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "Montessori English Medium High School",
+      "SchoolUUID": "58242e89-2445-400a-99dd-6a7971412ca2"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "D7787527-69FC-4F9C-98C3-55F6FF76EBD0",
+      "ClassName": "GRADE 2 MINNIE KRL0001155",
+      "ClassShortCode": "KRL0001155",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "Montessori English Medium High School",
+      "SchoolUUID": "58242e89-2445-400a-99dd-6a7971412ca2"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "48209CDB-DA1B-4791-AA24-5A89DE5F165A",
+      "ClassName": "GRADE 3 MINNIE KRL0001164",
+      "ClassShortCode": "KRL0001164",
+      "ProgramName": [
+        "BLP Grade 3"
+      ],
+      "SchoolName": "Montessori English Medium High School",
+      "SchoolUUID": "58242e89-2445-400a-99dd-6a7971412ca2"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "2F068FAF-466D-4D58-A5EB-64122C1FF6FD",
+      "ClassName": "PP2 ASTER KRL0001132",
+      "ClassShortCode": "KRL0001132",
+      "ProgramName": [
+        "BLP PP2"
+      ],
+      "SchoolName": "Montessori English Medium High School",
+      "SchoolUUID": "58242e89-2445-400a-99dd-6a7971412ca2"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "36360AA5-7B04-4FA0-BBB9-7A385EE486A1",
+      "ClassName": "PP1 ASTER KRL0001121",
+      "ClassShortCode": "KRL0001121",
+      "ProgramName": [
+        "BLP PP1"
+      ],
+      "SchoolName": "Montessori English Medium High School",
+      "SchoolUUID": "58242e89-2445-400a-99dd-6a7971412ca2"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "8AABBCBC-1878-4F11-8199-85F9FE3A8AA2",
+      "ClassName": "PP1 BLUEBELLS KRL0001125",
+      "ClassShortCode": "KRL0001125",
+      "ProgramName": [
+        "BLP PP1"
+      ],
+      "SchoolName": "Montessori English Medium High School",
+      "SchoolUUID": "58242e89-2445-400a-99dd-6a7971412ca2"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "C33669A7-F87A-4EA9-B3B0-9C894AB75916",
+      "ClassName": "GRADE 5 TWEETY KRL0001185",
+      "ClassShortCode": "KRL0001185",
+      "ProgramName": [
+        "BLP Grade 5"
+      ],
+      "SchoolName": "Montessori English Medium High School",
+      "SchoolUUID": "58242e89-2445-400a-99dd-6a7971412ca2"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "248EE3F3-6116-434D-9FDE-A7345ADB4C77",
+      "ClassName": "GRADE 4 MICKEY KRL0001173",
+      "ClassShortCode": "KRL0001173",
+      "ProgramName": [
+        "BLP Grade 4"
+      ],
+      "SchoolName": "Montessori English Medium High School",
+      "SchoolUUID": "58242e89-2445-400a-99dd-6a7971412ca2"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "78828B0A-BA0F-4849-9C91-A88A804BC0FB",
+      "ClassName": "PP1 BLUE BELLS KRL0001122",
+      "ClassShortCode": "KRL0001122",
+      "ProgramName": [
+        "BLP PP1"
+      ],
+      "SchoolName": "Montessori English Medium High School",
+      "SchoolUUID": "58242e89-2445-400a-99dd-6a7971412ca2"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "360B4811-2967-4EE4-9DB9-B272B8F24113",
+      "ClassName": "GRADE 1 DONALD KRL0001144",
+      "ClassShortCode": "KRL0001144",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Montessori English Medium High School",
+      "SchoolUUID": "58242e89-2445-400a-99dd-6a7971412ca2"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "287C9BCD-E8DB-4535-B17F-B3E58917A0B3",
+      "ClassName": "GRADE 5 DONALD KRL0001182",
+      "ClassShortCode": "KRL0001182",
+      "ProgramName": [
+        "BLP Grade 5"
+      ],
+      "SchoolName": "Montessori English Medium High School",
+      "SchoolUUID": "58242e89-2445-400a-99dd-6a7971412ca2"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "AC41BE84-BAD4-4843-9D74-B91272877B24",
+      "ClassName": "GRADE 3 MICKEY KRL0001163",
+      "ClassShortCode": "KRL0001163",
+      "ProgramName": [
+        "BLP Grade 3"
+      ],
+      "SchoolName": "Montessori English Medium High School",
+      "SchoolUUID": "58242e89-2445-400a-99dd-6a7971412ca2"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "4A505242-DF02-4311-AFB0-B95CEB174A6B",
+      "ClassName": "PP2 ORCHIDS KRL0001135",
+      "ClassShortCode": "KRL0001135",
+      "ProgramName": [
+        "BLP PP2"
+      ],
+      "SchoolName": "Montessori English Medium High School",
+      "SchoolUUID": "58242e89-2445-400a-99dd-6a7971412ca2"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "0A09AAE1-C226-4169-A278-C6708D42FF72",
+      "ClassName": "GRADE 5 MINNIE KRL0001184",
+      "ClassShortCode": "KRL0001184",
+      "ProgramName": [
+        "BLP Grade 5"
+      ],
+      "SchoolName": "Montessori English Medium High School",
+      "SchoolUUID": "58242e89-2445-400a-99dd-6a7971412ca2"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "44E44534-B0B6-4F0F-B1E3-C8EC058E8CCA",
+      "ClassName": "GRADE 2 DONALD KRL0001153",
+      "ClassShortCode": "KRL0001153",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "Montessori English Medium High School",
+      "SchoolUUID": "58242e89-2445-400a-99dd-6a7971412ca2"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "CBE80CCB-62D5-4CAA-AA71-CC910D2193D3",
+      "ClassName": "GRADE 4 MINNIE KRL0001174",
+      "ClassShortCode": "KRL0001174",
+      "ProgramName": [
+        "BLP Grade 4"
+      ],
+      "SchoolName": "Montessori English Medium High School",
+      "SchoolUUID": "58242e89-2445-400a-99dd-6a7971412ca2"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "BCDA3E7E-29B5-45A0-BD4F-CFFC09F4640E",
+      "ClassName": "GRADE 1 MINNIE KRL0001146",
+      "ClassShortCode": "KRL0001146",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Montessori English Medium High School",
+      "SchoolUUID": "58242e89-2445-400a-99dd-6a7971412ca2"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "6E617A8A-EB8E-415D-98D2-D1B750D4EBA5",
+      "ClassName": "PP2 BLUE BELLS KRL0001133",
+      "ClassShortCode": "KRL0001133",
+      "ProgramName": [
+        "BLP PP2"
+      ],
+      "SchoolName": "Montessori English Medium High School",
+      "SchoolUUID": "58242e89-2445-400a-99dd-6a7971412ca2"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "56B4377C-0E48-432F-BAAF-D296749DB494",
+      "ClassName": "PP2 MARIGOLD KRL0001136",
+      "ClassShortCode": "KRL0001136",
+      "ProgramName": [
+        "BLP PP2"
+      ],
+      "SchoolName": "Montessori English Medium High School",
+      "SchoolUUID": "58242e89-2445-400a-99dd-6a7971412ca2"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "D14E47A4-F4CB-41C7-B554-F617BD0AAB38",
+      "ClassName": "PP2 DAFFODILS KRL0001134",
+      "ClassShortCode": "KRL0001134",
+      "ProgramName": [
+        "BLP PP2"
+      ],
+      "SchoolName": "Montessori English Medium High School",
+      "SchoolUUID": "58242e89-2445-400a-99dd-6a7971412ca2"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "24D3B0E5-B7C3-44D5-B6E3-FF3877C41A88",
+      "ClassName": "PP1 DAFFODILS KRL0001124",
+      "ClassShortCode": "KRL0001124",
+      "ProgramName": [
+        "BLP PP1"
+      ],
+      "SchoolName": "Montessori English Medium High School",
+      "SchoolUUID": "58242e89-2445-400a-99dd-6a7971412ca2"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "E604C88F-FB7A-414F-AD3C-12D8E8229848",
+      "ClassName": "Grade 2 A CBE0012251",
+      "ClassShortCode": "CBE0012251",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "Annai Abirami Mat Hr Sec School",
+      "SchoolUUID": "d83ab062-9637-44d8-a22d-9b0974cfdbda"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "158C7560-099B-4C3E-B3FA-65BCFE646885",
+      "ClassName": "PP1 A CBE0012221",
+      "ClassShortCode": "CBE0012221",
+      "ProgramName": [
+        "BLP PP1"
+      ],
+      "SchoolName": "Annai Abirami Mat Hr Sec School",
+      "SchoolUUID": "d83ab062-9637-44d8-a22d-9b0974cfdbda"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "EBC2BEE4-EFA4-4D7A-9523-66F87831B4C9",
+      "ClassName": "Grade 2 A aams CBE0012252",
+      "ClassShortCode": "CBE0012252",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "Annai Abirami Mat Hr Sec School",
+      "SchoolUUID": "d83ab062-9637-44d8-a22d-9b0974cfdbda"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "8852DE22-0D00-4891-925B-7ADB2BDF524D",
+      "ClassName": "Grade 1 A aams CBE0012242",
+      "ClassShortCode": "CBE0012242",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Annai Abirami Mat Hr Sec School",
+      "SchoolUUID": "d83ab062-9637-44d8-a22d-9b0974cfdbda"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "0D71FF69-E842-4B5C-A272-B29BFAB21E9A",
+      "ClassName": "Grade 1 A CBE0012241",
+      "ClassShortCode": "CBE0012241",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Annai Abirami Mat Hr Sec School",
+      "SchoolUUID": "d83ab062-9637-44d8-a22d-9b0974cfdbda"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "0D4F7167-0993-4F86-A68D-BE35A82857C8",
+      "ClassName": "PP1 A aams CBE0012222",
+      "ClassShortCode": "CBE0012222",
+      "ProgramName": [
+        "BLP PP1"
+      ],
+      "SchoolName": "Annai Abirami Mat Hr Sec School",
+      "SchoolUUID": "d83ab062-9637-44d8-a22d-9b0974cfdbda"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "1C360FE8-16EA-4580-AA47-E711BFF12955",
+      "ClassName": "PP2 A aams CBE0012232",
+      "ClassShortCode": "CBE0012232",
+      "ProgramName": [
+        "BLP PP2"
+      ],
+      "SchoolName": "Annai Abirami Mat Hr Sec School",
+      "SchoolUUID": "d83ab062-9637-44d8-a22d-9b0974cfdbda"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "067C9A31-0946-494B-B140-EA8253050C35",
+      "ClassName": "PP2 A CBE0012231",
+      "ClassShortCode": "CBE0012231",
+      "ProgramName": [
+        "BLP PP2"
+      ],
+      "SchoolName": "Annai Abirami Mat Hr Sec School",
+      "SchoolUUID": "d83ab062-9637-44d8-a22d-9b0974cfdbda"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "A44FC50D-E3DE-495C-BAEA-0BFB9198271D",
+      "ClassName": "Grade 5 A MDK0000981",
+      "ClassShortCode": "MDK0000981",
+      "ProgramName": [
+        "BLP Grade 5"
+      ],
+      "SchoolName": "Light Of Life School",
+      "SchoolUUID": "005dc1a8-8f96-4c84-8fb0-2be2fdb77c37"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "3B1D4CA7-2CAE-4FE4-A9BC-30BF7FD2F11D",
+      "ClassName": "Grade 3 A MDK0000961",
+      "ClassShortCode": "MDK0000961",
+      "ProgramName": [
+        "BLP Grade 3"
+      ],
+      "SchoolName": "Light Of Life School",
+      "SchoolUUID": "005dc1a8-8f96-4c84-8fb0-2be2fdb77c37"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "EEC721E3-7C26-4606-87D9-977B30218671",
+      "ClassName": "Grade 4 A MDK0000971",
+      "ClassShortCode": "MDK0000971",
+      "ProgramName": [
+        "BLP Grade 4"
+      ],
+      "SchoolName": "Light Of Life School",
+      "SchoolUUID": "005dc1a8-8f96-4c84-8fb0-2be2fdb77c37"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "F41CE943-75D1-443D-9FC0-00744C4F1B88",
+      "ClassName": "PREP I A BGR0070321",
+      "ClassShortCode": "BGR0070321",
+      "ProgramName": [
+        "BLP PP1"
+      ],
+      "SchoolName": "The Regency Public School",
+      "SchoolUUID": "333ce211-2012-4d3f-b171-4ccbf9e5ad9c"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "1599B6F9-F63D-4134-ABCF-0F6760F17898",
+      "ClassName": "II B trps BGR0070354",
+      "ClassShortCode": "BGR0070354",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "The Regency Public School",
+      "SchoolUUID": "333ce211-2012-4d3f-b171-4ccbf9e5ad9c"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "09A85199-13FB-41A8-9C9A-16F90470A5E0",
+      "ClassName": "PREP II A trps BGR0070333",
+      "ClassShortCode": "BGR0070333",
+      "ProgramName": [
+        "BLP PP2"
+      ],
+      "SchoolName": "The Regency Public School",
+      "SchoolUUID": "333ce211-2012-4d3f-b171-4ccbf9e5ad9c"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "E8D1B45A-A7B7-4573-BFA7-1D0BC4403DC8",
+      "ClassName": "Pre- Nursery A trps BGR0070312",
+      "ClassShortCode": "BGR0070312",
+      "ProgramName": [
+        "BLP Nursery"
+      ],
+      "SchoolName": "The Regency Public School",
+      "SchoolUUID": "333ce211-2012-4d3f-b171-4ccbf9e5ad9c"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "2AB92DDC-F119-453A-9974-1F0A112827E7",
+      "ClassName": "PREP I A trps BGR0070322",
+      "ClassShortCode": "BGR0070322",
+      "ProgramName": [
+        "BLP PP1"
+      ],
+      "SchoolName": "The Regency Public School",
+      "SchoolUUID": "333ce211-2012-4d3f-b171-4ccbf9e5ad9c"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "65F33A77-9496-4AAB-91F4-348EE4383A15",
+      "ClassName": "II A trps BGR0070353",
+      "ClassShortCode": "BGR0070353",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "The Regency Public School",
+      "SchoolUUID": "333ce211-2012-4d3f-b171-4ccbf9e5ad9c"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "6805A797-D01E-4EC0-9E0F-3D4A8C9844E2",
+      "ClassName": "I A trps BGR0070343",
+      "ClassShortCode": "BGR0070343",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "The Regency Public School",
+      "SchoolUUID": "333ce211-2012-4d3f-b171-4ccbf9e5ad9c"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "1E0DB4C0-02CB-45F1-9405-5DBE402D9966",
+      "ClassName": "II B BGR0070352",
+      "ClassShortCode": "BGR0070352",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "The Regency Public School",
+      "SchoolUUID": "333ce211-2012-4d3f-b171-4ccbf9e5ad9c"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "DBAEB25B-3AAE-47C4-8C55-6913F2E477FD",
+      "ClassName": "PN A BGR0070311",
+      "ClassShortCode": "BGR0070311",
+      "ProgramName": [
+        "BLP Nursery"
+      ],
+      "SchoolName": "The Regency Public School",
+      "SchoolUUID": "333ce211-2012-4d3f-b171-4ccbf9e5ad9c"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "4D9584F3-DD21-43E8-907B-843BB8A13715",
+      "ClassName": "PREP II  B BGR0070332",
+      "ClassShortCode": "BGR0070332",
+      "ProgramName": [
+        "BLP PP2"
+      ],
+      "SchoolName": "The Regency Public School",
+      "SchoolUUID": "333ce211-2012-4d3f-b171-4ccbf9e5ad9c"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "73012AEF-4D96-40D9-A821-8E5624844DA4",
+      "ClassName": "PREP II  A BGR0070331",
+      "ClassShortCode": "BGR0070331",
+      "ProgramName": [
+        "BLP PP2"
+      ],
+      "SchoolName": "The Regency Public School",
+      "SchoolUUID": "333ce211-2012-4d3f-b171-4ccbf9e5ad9c"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "1AD4B56F-3F3D-4A36-B9BF-9AE26EEF7379",
+      "ClassName": "I A BGR0070341",
+      "ClassShortCode": "BGR0070341",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "The Regency Public School",
+      "SchoolUUID": "333ce211-2012-4d3f-b171-4ccbf9e5ad9c"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "9501F7DE-5FDE-41BB-A94A-AB0E55B58A9D",
+      "ClassName": "II A BGR0070351",
+      "ClassShortCode": "BGR0070351",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "The Regency Public School",
+      "SchoolUUID": "333ce211-2012-4d3f-b171-4ccbf9e5ad9c"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "63BB1FFF-637D-48B9-83F6-AF128C8D9B82",
+      "ClassName": "I B trps BGR0070344",
+      "ClassShortCode": "BGR0070344",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "The Regency Public School",
+      "SchoolUUID": "333ce211-2012-4d3f-b171-4ccbf9e5ad9c"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "04984FA3-7555-4B1B-B197-D266CC27D273",
+      "ClassName": "I B BGR0070342",
+      "ClassShortCode": "BGR0070342",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "The Regency Public School",
+      "SchoolUUID": "333ce211-2012-4d3f-b171-4ccbf9e5ad9c"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "75405A57-5254-40CA-8A6F-F45D9A6F8F8C",
+      "ClassName": "PREP II B trps BGR0070334",
+      "ClassShortCode": "BGR0070334",
+      "ProgramName": [
+        "BLP PP2"
+      ],
+      "SchoolName": "The Regency Public School",
+      "SchoolUUID": "333ce211-2012-4d3f-b171-4ccbf9e5ad9c"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "8B8778CE-4F72-4775-BFB9-697B9E906CCF",
+      "ClassName": "Grade 3 A IMP0000461",
+      "ClassShortCode": "IMP0000461",
+      "ProgramName": [
+        "BLP Grade 3"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "8B8778CE-4F72-4775-BFB9-697B9E906CCF",
+      "ClassName": "3 A IMP0000461",
+      "ClassShortCode": "IMP0000461",
+      "ProgramName": [
+        "BLP Grade 3"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "8B8778CE-4F72-4775-BFB9-697B9E906CCF",
+      "ClassName": "Grade 3 A IMP0000461",
+      "ClassShortCode": "IMP0000461",
+      "ProgramName": [
+        "BLP Grade 3"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "093630DD-8CA7-47EA-B225-9CB9C99A4A34",
+      "ClassName": "Grade 3 B IMP0000462",
+      "ClassShortCode": "IMP0000462",
+      "ProgramName": [
+        "BLP Grade 3"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "093630DD-8CA7-47EA-B225-9CB9C99A4A34",
+      "ClassName": "Grade 3 B IMP0000462",
+      "ClassShortCode": "IMP0000462",
+      "ProgramName": [
+        "BLP Grade 3"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "5F1A9A63-5B3B-457D-904E-AAA67C6600B9",
+      "ClassName": "Grade 4 A IMP0000472",
+      "ClassShortCode": "IMP0000472",
+      "ProgramName": [
+        "BLP Grade 4"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "BA01E365-32EF-44D5-94F3-CBE3ABE9B938",
+      "ClassName": "Pre-Sch Strawberries IMP0000424",
+      "ClassShortCode": "IMP0000424",
+      "ProgramName": [
+        "BLP PP1"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "BA01E365-32EF-44D5-94F3-CBE3ABE9B938",
+      "ClassName": "Pre-Sch Strawberries IMP0000424",
+      "ClassShortCode": "IMP0000424",
+      "ProgramName": [
+        "BLP PP1"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "24AE0B26-EE1F-402D-BF89-D0A4D0D4C78D",
+      "ClassName": "Grade 4 B IMP0000473",
+      "ClassShortCode": "IMP0000473",
+      "ProgramName": [
+        "BLP Grade 4"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "108B118F-4BB2-4D15-90C4-FD95AB0BB565",
+      "ClassName": "PP1 A IMP0000428",
+      "ClassShortCode": "IMP0000428",
+      "ProgramName": [
+        "BLP PP1"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "B01A4C82-C61D-48C5-9C3E-08E5B3871912",
+      "ClassName": "I Raspberries IMP0000447",
+      "ClassShortCode": "IMP0000447",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "6FF687BE-AB24-476D-A680-098D66E462B4",
+      "ClassName": "1 A IMP0000441",
+      "ClassShortCode": "IMP0000441",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "6FF687BE-AB24-476D-A680-098D66E462B4",
+      "ClassName": "Grade 1  A IMP0000441",
+      "ClassShortCode": "IMP0000441",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "6FF687BE-AB24-476D-A680-098D66E462B4",
+      "ClassName": "Grade 1 A IMP0000441",
+      "ClassShortCode": "IMP0000441",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "6FF687BE-AB24-476D-A680-098D66E462B4",
+      "ClassName": "Test class 1 A IMP0000441",
+      "ClassShortCode": "IMP0000441",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "49AABB42-4649-422F-A5BD-0B3070AD2D04",
+      "ClassName": "2 A IMP0000451",
+      "ClassShortCode": "IMP0000451",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "49AABB42-4649-422F-A5BD-0B3070AD2D04",
+      "ClassName": "Grade 2 A IMP0000451",
+      "ClassShortCode": "IMP0000451",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "49AABB42-4649-422F-A5BD-0B3070AD2D04",
+      "ClassName": "Test class 2 A IMP0000451",
+      "ClassShortCode": "IMP0000451",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "8CB710C4-4DBF-4550-B93D-363F2D83C21D",
+      "ClassName": "Pre-Sch Blueberries IMP0000426",
+      "ClassShortCode": "IMP0000426",
+      "ProgramName": [
+        "BLP PP1"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "AF6396C3-E8EF-4BFE-8AA1-54E90B46C7BF",
+      "ClassName": "2 B IMP0000452",
+      "ClassShortCode": "IMP0000452",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "AF6396C3-E8EF-4BFE-8AA1-54E90B46C7BF",
+      "ClassName": "Grade 2 B IMP0000452",
+      "ClassShortCode": "IMP0000452",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "70278E09-E2D2-4B22-8090-5DB4A1868802",
+      "ClassName": "I Blueberries IMP0000445",
+      "ClassShortCode": "IMP0000445",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "28EE59E4-18F8-44C1-8235-5DF1550AD412",
+      "ClassName": "1 C IMP0000443",
+      "ClassShortCode": "IMP0000443",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "24BAD849-0C6C-475E-AB6B-63AC4D163DBE",
+      "ClassName": "Pre-Sch Blackberries IMP0000427",
+      "ClassShortCode": "IMP0000427",
+      "ProgramName": [
+        "BLP PP1"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "53FDCBDC-D88A-45B2-BF21-A2EE8A08F5B5",
+      "ClassName": "1 B IMP0000442",
+      "ClassShortCode": "IMP0000442",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "53FDCBDC-D88A-45B2-BF21-A2EE8A08F5B5",
+      "ClassName": "Grade 1  B IMP0000442",
+      "ClassShortCode": "IMP0000442",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "843BF62D-C60E-481A-A43C-B647C55240AE",
+      "ClassName": "PP2 A IMP0000431",
+      "ClassShortCode": "IMP0000431",
+      "ProgramName": [
+        "BLP PP2"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "1F3031E6-ADC5-48E4-AA61-D3A29B3FF661",
+      "ClassName": "4 D IMP0000471",
+      "ClassShortCode": "IMP0000471",
+      "ProgramName": [
+        "BLP Grade 4"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "DAC610DC-44F4-426A-907E-D629001F755F",
+      "ClassName": "Pre-Sch Raspberries IMP0000425",
+      "ClassShortCode": "IMP0000425",
+      "ProgramName": [
+        "BLP PP1"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "EC4DE759-5EDB-4595-B4F9-D741FA82DBDD",
+      "ClassName": "I Strawberries IMP0000444",
+      "ClassShortCode": "IMP0000444",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "EEC55786-AC7A-4CC1-90DF-EA21F603DC64",
+      "ClassName": "I Blackberries IMP0000446",
+      "ClassShortCode": "IMP0000446",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "FEDF21FD-F757-4594-8FA1-F3F6D8B851A3",
+      "ClassName": "2 C IMP0000453",
+      "ClassShortCode": "IMP0000453",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "Chrysalis School",
+      "SchoolUUID": "f9dab07b-17be-4881-a80a-ad6549e75b47"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "F4210C8B-BB94-44CF-B14A-0889E89CEC64",
+      "ClassName": "KG A sis GUR0009934",
+      "ClassShortCode": "GUR0009934",
+      "ProgramName": [
+        "BLP PP2"
+      ],
+      "SchoolName": "Sapphire International School",
+      "SchoolUUID": "ef77e6f4-6266-4a62-980b-26e4522d3523"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "EC38A320-B936-4D1F-A707-0B021B7C3D19",
+      "ClassName": "II C GUR0009953",
+      "ClassShortCode": "GUR0009953",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "Sapphire International School",
+      "SchoolUUID": "ef77e6f4-6266-4a62-980b-26e4522d3523"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "9DAE9427-0270-492E-AAF9-44BC2F04545B",
+      "ClassName": "I A GUR0009941",
+      "ClassShortCode": "GUR0009941",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Sapphire International School",
+      "SchoolUUID": "ef77e6f4-6266-4a62-980b-26e4522d3523"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "FE57333B-D664-47D4-A00B-4E74949172AE",
+      "ClassName": "KG B GUR0009932",
+      "ClassShortCode": "GUR0009932",
+      "ProgramName": [
+        "BLP PP2"
+      ],
+      "SchoolName": "Sapphire International School",
+      "SchoolUUID": "ef77e6f4-6266-4a62-980b-26e4522d3523"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "F02DF1C3-92AA-40C3-A1CF-51F97C346329",
+      "ClassName": "II B sis GUR0009958",
+      "ClassShortCode": "GUR0009958",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "Sapphire International School",
+      "SchoolUUID": "ef77e6f4-6266-4a62-980b-26e4522d3523"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "7ECD5DC2-01F6-4E4D-AEE5-5A9D8B99D455",
+      "ClassName": "Nursery A GUR0009921",
+      "ClassShortCode": "GUR0009921",
+      "ProgramName": [
+        "BLP PP1"
+      ],
+      "SchoolName": "Sapphire International School",
+      "SchoolUUID": "ef77e6f4-6266-4a62-980b-26e4522d3523"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "93599CB5-03BC-4FE8-8235-5D75E5091115",
+      "ClassName": "Pre - Nursery A GUR0009911",
+      "ClassShortCode": "GUR0009911",
+      "ProgramName": [
+        "BLP Nursery"
+      ],
+      "SchoolName": "Sapphire International School",
+      "SchoolUUID": "ef77e6f4-6266-4a62-980b-26e4522d3523"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "730F4ED1-B436-4EFC-B5A8-60973F848AD0",
+      "ClassName": "I C GUR0009943",
+      "ClassShortCode": "GUR0009943",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Sapphire International School",
+      "SchoolUUID": "ef77e6f4-6266-4a62-980b-26e4522d3523"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "F6AC3CD3-54AB-4469-8715-6742155C3B1F",
+      "ClassName": "Nursery B sis GUR0009923",
+      "ClassShortCode": "GUR0009923",
+      "ProgramName": [
+        "BLP PP1"
+      ],
+      "SchoolName": "Sapphire International School",
+      "SchoolUUID": "ef77e6f4-6266-4a62-980b-26e4522d3523"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "B311F4EB-9C9F-4578-8F55-6B963BBA8113",
+      "ClassName": "I B sis GUR0009946",
+      "ClassShortCode": "GUR0009946",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Sapphire International School",
+      "SchoolUUID": "ef77e6f4-6266-4a62-980b-26e4522d3523"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "867A2362-F46E-4431-B98F-74F1FC8FBABE",
+      "ClassName": "Pre - Nursery A sis GUR0009912",
+      "ClassShortCode": "GUR0009912",
+      "ProgramName": [
+        "BLP Nursery"
+      ],
+      "SchoolName": "Sapphire International School",
+      "SchoolUUID": "ef77e6f4-6266-4a62-980b-26e4522d3523"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "9EE2563B-EC2B-47F4-BFEC-762222E42689",
+      "ClassName": "II A sis GUR0009957",
+      "ClassShortCode": "GUR0009957",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "Sapphire International School",
+      "SchoolUUID": "ef77e6f4-6266-4a62-980b-26e4522d3523"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "6457D569-CA15-4333-A7A9-7B36CA8358D2",
+      "ClassName": "II B GUR0009955",
+      "ClassShortCode": "GUR0009955",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "Sapphire International School",
+      "SchoolUUID": "ef77e6f4-6266-4a62-980b-26e4522d3523"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "F7C9C11A-AB09-4CB2-AD65-7CEE3EDCAADD",
+      "ClassName": "I C sis GUR0009945",
+      "ClassShortCode": "GUR0009945",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Sapphire International School",
+      "SchoolUUID": "ef77e6f4-6266-4a62-980b-26e4522d3523"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "F3A5BC1B-4880-4B8D-B4AD-A445D2D59E37",
+      "ClassName": "II C sis GUR0009956",
+      "ClassShortCode": "GUR0009956",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "Sapphire International School",
+      "SchoolUUID": "ef77e6f4-6266-4a62-980b-26e4522d3523"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "A5F16FDE-9DED-47BC-8338-ACD89E44FC0E",
+      "ClassName": "I B GUR0009942",
+      "ClassShortCode": "GUR0009942",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Sapphire International School",
+      "SchoolUUID": "ef77e6f4-6266-4a62-980b-26e4522d3523"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "D0B2B0FA-C4D0-4081-AADA-B0751BF37C48",
+      "ClassName": "II A GUR0009954",
+      "ClassShortCode": "GUR0009954",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "Sapphire International School",
+      "SchoolUUID": "ef77e6f4-6266-4a62-980b-26e4522d3523"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "92BD625B-AE6E-4240-A8DA-BF2A8741D37B",
+      "ClassName": "Nursery A sis GUR0009922",
+      "ClassShortCode": "GUR0009922",
+      "ProgramName": [
+        "BLP PP1"
+      ],
+      "SchoolName": "Sapphire International School",
+      "SchoolUUID": "ef77e6f4-6266-4a62-980b-26e4522d3523"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "F5765BE8-1EBF-4F7C-B93A-C80496A00AA2",
+      "ClassName": "I D sis GUR0009948",
+      "ClassShortCode": "GUR0009948",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Sapphire International School",
+      "SchoolUUID": "ef77e6f4-6266-4a62-980b-26e4522d3523"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "84202276-CB96-494A-9773-E34762029867",
+      "ClassName": "KG A GUR0009931",
+      "ClassShortCode": "GUR0009931",
+      "ProgramName": [
+        "BLP PP2"
+      ],
+      "SchoolName": "Sapphire International School",
+      "SchoolUUID": "ef77e6f4-6266-4a62-980b-26e4522d3523"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "6A628EDB-93B7-4370-B312-E9B2EFBC3578",
+      "ClassName": "I D GUR0009944",
+      "ClassShortCode": "GUR0009944",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Sapphire International School",
+      "SchoolUUID": "ef77e6f4-6266-4a62-980b-26e4522d3523"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "6B49E7E1-B97E-4409-BB4A-EA447BE6DB32",
+      "ClassName": "KG B sis GUR0009933",
+      "ClassShortCode": "GUR0009933",
+      "ProgramName": [
+        "BLP PP2"
+      ],
+      "SchoolName": "Sapphire International School",
+      "SchoolUUID": "ef77e6f4-6266-4a62-980b-26e4522d3523"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "99EA9254-F9E2-4D1B-83E3-F3950D9E8006",
+      "ClassName": "I A sis GUR0009947",
+      "ClassShortCode": "GUR0009947",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Sapphire International School",
+      "SchoolUUID": "ef77e6f4-6266-4a62-980b-26e4522d3523"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "04D78A86-0DD8-47D9-AABA-74A2ABA4E73A",
+      "ClassName": "PP2 A HYD0061131",
+      "ClassShortCode": "HYD0061131",
+      "ProgramName": [
+        "BLP PP2"
+      ],
+      "SchoolName": "Sage School",
+      "SchoolUUID": "794c5203-9273-4ceb-9d32-04f9c300f9a8"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "8B1BB7C2-77F8-400D-B966-76A75F4F036E",
+      "ClassName": "PP2 B HYD0061132",
+      "ClassShortCode": "HYD0061132",
+      "ProgramName": [
+        "BLP PP2"
+      ],
+      "SchoolName": "Sage School",
+      "SchoolUUID": "794c5203-9273-4ceb-9d32-04f9c300f9a8"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "4227B77B-5560-4A21-B7D8-C8408FBACCB0",
+      "ClassName": "PP1 A HYD0061121",
+      "ClassShortCode": "HYD0061121",
+      "ProgramName": [
+        "BLP PP1"
+      ],
+      "SchoolName": "Sage School",
+      "SchoolUUID": "794c5203-9273-4ceb-9d32-04f9c300f9a8"
+    },
+    {
+      "OrganizationName": "Chrysalis Digital",
+      "OrganizationUUID": "8f6167ba-240e-4eeb-beec-0536ecb90403",
+      "ClassUUID": "AAAC2383-FB44-41DC-9AF4-231C325161B9",
+      "ClassName": "6 B meccbse BGR0112593",
+      "ClassShortCode": "BGR0112593",
+      "ProgramName": [
+        "Primary"
+      ],
+      "SchoolName": "M.E.C. Public School (CBSE)",
+      "SchoolUUID": "d9739f29-05d6-4a3b-8b0f-d1f55fff3ede"
+    },
+    {
+      "OrganizationName": "Chrysalis Digital",
+      "OrganizationUUID": "8f6167ba-240e-4eeb-beec-0536ecb90403",
+      "ClassUUID": "8468B1B3-D29D-4685-B4F6-37B7C277AE70",
+      "ClassName": "10 A meccbse BGR0112513",
+      "ClassShortCode": "BGR0112513",
+      "ProgramName": [
+        "BLP Upper Primary"
+      ],
+      "SchoolName": "M.E.C. Public School (CBSE)",
+      "SchoolUUID": "d9739f29-05d6-4a3b-8b0f-d1f55fff3ede"
+    },
+    {
+      "OrganizationName": "Chrysalis Digital",
+      "OrganizationUUID": "8f6167ba-240e-4eeb-beec-0536ecb90403",
+      "ClassUUID": "776C0D10-9352-4688-B369-3D662C3957B8",
+      "ClassName": "8 A meccbse BGR0112511",
+      "ClassShortCode": "BGR0112511",
+      "ProgramName": [
+        "BLP Upper Primary"
+      ],
+      "SchoolName": "M.E.C. Public School (CBSE)",
+      "SchoolUUID": "d9739f29-05d6-4a3b-8b0f-d1f55fff3ede"
+    },
+    {
+      "OrganizationName": "Chrysalis Digital",
+      "OrganizationUUID": "8f6167ba-240e-4eeb-beec-0536ecb90403",
+      "ClassUUID": "776C0D10-9352-4688-B369-3D662C3957B8",
+      "ClassName": "8 B meccbse BGR0112511",
+      "ClassShortCode": "BGR0112511",
+      "ProgramName": [
+        "BLP Upper Primary"
+      ],
+      "SchoolName": "M.E.C. Public School (CBSE)",
+      "SchoolUUID": "d9739f29-05d6-4a3b-8b0f-d1f55fff3ede"
+    },
+    {
+      "OrganizationName": "Chrysalis Digital",
+      "OrganizationUUID": "8f6167ba-240e-4eeb-beec-0536ecb90403",
+      "ClassUUID": "A4E04CC1-BEC8-4305-8F68-A2678749E16F",
+      "ClassName": "7 A meccbse BGR0112510",
+      "ClassShortCode": "BGR0112510",
+      "ProgramName": [
+        "BLP Upper Primary"
+      ],
+      "SchoolName": "M.E.C. Public School (CBSE)",
+      "SchoolUUID": "d9739f29-05d6-4a3b-8b0f-d1f55fff3ede"
+    },
+    {
+      "OrganizationName": "Chrysalis Digital",
+      "OrganizationUUID": "8f6167ba-240e-4eeb-beec-0536ecb90403",
+      "ClassUUID": "A4E04CC1-BEC8-4305-8F68-A2678749E16F",
+      "ClassName": "7 B meccbse BGR0112510",
+      "ClassShortCode": "BGR0112510",
+      "ProgramName": [
+        "BLP Upper Primary"
+      ],
+      "SchoolName": "M.E.C. Public School (CBSE)",
+      "SchoolUUID": "d9739f29-05d6-4a3b-8b0f-d1f55fff3ede"
+    },
+    {
+      "OrganizationName": "Chrysalis Digital",
+      "OrganizationUUID": "8f6167ba-240e-4eeb-beec-0536ecb90403",
+      "ClassUUID": "A19C1262-ECC8-44F4-8D2E-AC84E007DD80",
+      "ClassName": "6 A meccbse BGR0112592",
+      "ClassShortCode": "BGR0112592",
+      "ProgramName": [
+        "Primary"
+      ],
+      "SchoolName": "M.E.C. Public School (CBSE)",
+      "SchoolUUID": "d9739f29-05d6-4a3b-8b0f-d1f55fff3ede"
+    },
+    {
+      "OrganizationName": "Chrysalis Digital",
+      "OrganizationUUID": "8f6167ba-240e-4eeb-beec-0536ecb90403",
+      "ClassUUID": "AD5E2F57-057C-4577-AE63-FFEAA42DC32E",
+      "ClassName": "9 A meccbse BGR0112512",
+      "ClassShortCode": "BGR0112512",
+      "ProgramName": [
+        "BLP Upper Primary"
+      ],
+      "SchoolName": "M.E.C. Public School (CBSE)",
+      "SchoolUUID": "d9739f29-05d6-4a3b-8b0f-d1f55fff3ede"
+    },
+    {
+      "OrganizationName": "Chrysalis Digital",
+      "OrganizationUUID": "8f6167ba-240e-4eeb-beec-0536ecb90403",
+      "ClassUUID": "AD5E2F57-057C-4577-AE63-FFEAA42DC32E",
+      "ClassName": "9 B meccbse BGR0112512",
+      "ClassShortCode": "BGR0112512",
+      "ProgramName": [
+        "BLP Upper Primary"
+      ],
+      "SchoolName": "M.E.C. Public School (CBSE)",
+      "SchoolUUID": "d9739f29-05d6-4a3b-8b0f-d1f55fff3ede"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "AD5E2F57-057C-4577-AE63-FFEAA42DC32E",
+      "ClassName": "Nursery A meccbse BGR0112512",
+      "ClassShortCode": "BGR0112512",
+      "ProgramName": [
+        "BLP Nursery"
+      ],
+      "SchoolName": "M.E.C. Public School (CBSE)",
+      "SchoolUUID": "d9739f29-05d6-4a3b-8b0f-d1f55fff3ede"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "C3435098-5D9A-48C9-94FF-06E5E4E53B0C",
+      "ClassName": "5 B meccbse BGR0112583",
+      "ClassShortCode": "BGR0112583",
+      "ProgramName": [
+        "BLP Grade 5"
+      ],
+      "SchoolName": "M.E.C. Public School (CBSE)",
+      "SchoolUUID": "d9739f29-05d6-4a3b-8b0f-d1f55fff3ede"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "D563553A-0DBF-440E-9291-0C52FCBB5155",
+      "ClassName": "4 A meccbse BGR0112572",
+      "ClassShortCode": "BGR0112572",
+      "ProgramName": [
+        "BLP Grade 4"
+      ],
+      "SchoolName": "M.E.C. Public School (CBSE)",
+      "SchoolUUID": "d9739f29-05d6-4a3b-8b0f-d1f55fff3ede"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "8BD60164-1D99-4B06-B483-17DDEDFEBAE6",
+      "ClassName": "1 A meccbse BGR0112542",
+      "ClassShortCode": "BGR0112542",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "M.E.C. Public School (CBSE)",
+      "SchoolUUID": "d9739f29-05d6-4a3b-8b0f-d1f55fff3ede"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "7CBA1936-3D3D-4957-AE9B-2389DEFAF108",
+      "ClassName": "2 A meccbse BGR0112552",
+      "ClassShortCode": "BGR0112552",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "M.E.C. Public School (CBSE)",
+      "SchoolUUID": "d9739f29-05d6-4a3b-8b0f-d1f55fff3ede"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "DCD988E1-3418-45FF-9CBA-4964EC52F410",
+      "ClassName": "2 B meccbse BGR0112553",
+      "ClassShortCode": "BGR0112553",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "M.E.C. Public School (CBSE)",
+      "SchoolUUID": "d9739f29-05d6-4a3b-8b0f-d1f55fff3ede"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "D08CC257-6599-4DFE-BC47-4F796CDD8093",
+      "ClassName": "4 B meccbse BGR0112573",
+      "ClassShortCode": "BGR0112573",
+      "ProgramName": [
+        "BLP Grade 4"
+      ],
+      "SchoolName": "M.E.C. Public School (CBSE)",
+      "SchoolUUID": "d9739f29-05d6-4a3b-8b0f-d1f55fff3ede"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "AA763F9F-06C8-4B34-A1F9-A26D7A023C4B",
+      "ClassName": "PP1 A meccbse BGR0112522",
+      "ClassShortCode": "BGR0112522",
+      "ProgramName": [
+        "BLP PP1"
+      ],
+      "SchoolName": "M.E.C. Public School (CBSE)",
+      "SchoolUUID": "d9739f29-05d6-4a3b-8b0f-d1f55fff3ede"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "3A0D52FE-EB59-4F58-8AAD-A2EBC7D04A5D",
+      "ClassName": "1 B meccbse BGR0112543",
+      "ClassShortCode": "BGR0112543",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "M.E.C. Public School (CBSE)",
+      "SchoolUUID": "d9739f29-05d6-4a3b-8b0f-d1f55fff3ede"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "712E7C52-AADC-4F2B-A197-D6EC9016BAF1",
+      "ClassName": "3 A meccbse BGR0112562",
+      "ClassShortCode": "BGR0112562",
+      "ProgramName": [
+        "BLP Grade 3"
+      ],
+      "SchoolName": "M.E.C. Public School (CBSE)",
+      "SchoolUUID": "d9739f29-05d6-4a3b-8b0f-d1f55fff3ede"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "A93121ED-5419-4016-A979-DEB32E41773B",
+      "ClassName": "5 A meccbse BGR0112582",
+      "ClassShortCode": "BGR0112582",
+      "ProgramName": [
+        "BLP Grade 5"
+      ],
+      "SchoolName": "M.E.C. Public School (CBSE)",
+      "SchoolUUID": "d9739f29-05d6-4a3b-8b0f-d1f55fff3ede"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "7425564E-1C70-4FCD-BD2D-E359C7E0CD5E",
+      "ClassName": "3 B meccbse BGR0112563",
+      "ClassShortCode": "BGR0112563",
+      "ProgramName": [
+        "BLP Grade 3"
+      ],
+      "SchoolName": "M.E.C. Public School (CBSE)",
+      "SchoolUUID": "d9739f29-05d6-4a3b-8b0f-d1f55fff3ede"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "3DEF091A-689F-4D61-9BC7-FAA3F4858AE2",
+      "ClassName": "PP2 A meccbse BGR0112532",
+      "ClassShortCode": "BGR0112532",
+      "ProgramName": [
+        "BLP PP2"
+      ],
+      "SchoolName": "M.E.C. Public School (CBSE)",
+      "SchoolUUID": "d9739f29-05d6-4a3b-8b0f-d1f55fff3ede"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "50F8C8CF-8A34-4C30-908C-086866EF827B",
+      "ClassName": "III B TPR0002462",
+      "ClassShortCode": "TPR0002462",
+      "ProgramName": [
+        "BLP Grade 3"
+      ],
+      "SchoolName": "Cambridge Matriculation Higher Secondary School",
+      "SchoolUUID": "3da2542b-8bad-4dcb-b26b-1ae97acde02d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "4E4F7748-DA5C-4F47-A183-0CB5AE896FD6",
+      "ClassName": "LKG C TPR0002423",
+      "ClassShortCode": "TPR0002423",
+      "ProgramName": [
+        "BLP PP1"
+      ],
+      "SchoolName": "Cambridge Matriculation Higher Secondary School",
+      "SchoolUUID": "3da2542b-8bad-4dcb-b26b-1ae97acde02d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "5139E701-7B5A-4B22-B0C1-19CF2D19CFC1",
+      "ClassName": "V C TPR0002483",
+      "ClassShortCode": "TPR0002483",
+      "ProgramName": [
+        "BLP Grade 5"
+      ],
+      "SchoolName": "Cambridge Matriculation Higher Secondary School",
+      "SchoolUUID": "3da2542b-8bad-4dcb-b26b-1ae97acde02d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "FAD875D8-057A-42E5-A422-1DECC58E995F",
+      "ClassName": "IV C TPR0002473",
+      "ClassShortCode": "TPR0002473",
+      "ProgramName": [
+        "BLP Grade 4"
+      ],
+      "SchoolName": "Cambridge Matriculation Higher Secondary School",
+      "SchoolUUID": "3da2542b-8bad-4dcb-b26b-1ae97acde02d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "1C61AAED-3FB9-4BE0-AB84-3E00112B592D",
+      "ClassName": "UKG A TPR0002431",
+      "ClassShortCode": "TPR0002431",
+      "ProgramName": [
+        "BLP PP2"
+      ],
+      "SchoolName": "Cambridge Matriculation Higher Secondary School",
+      "SchoolUUID": "3da2542b-8bad-4dcb-b26b-1ae97acde02d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "AFF53799-9DFD-4C3A-B07A-4348F7160F6B",
+      "ClassName": "I B TPR0002442",
+      "ClassShortCode": "TPR0002442",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Cambridge Matriculation Higher Secondary School",
+      "SchoolUUID": "3da2542b-8bad-4dcb-b26b-1ae97acde02d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "8864EAA9-C660-470D-9EC7-4A76DA1B27AA",
+      "ClassName": "IV A TPR0002471",
+      "ClassShortCode": "TPR0002471",
+      "ProgramName": [
+        "BLP Grade 4"
+      ],
+      "SchoolName": "Cambridge Matriculation Higher Secondary School",
+      "SchoolUUID": "3da2542b-8bad-4dcb-b26b-1ae97acde02d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "7A255BF3-D6A1-4934-B829-538BE6ED0791",
+      "ClassName": "LKG A TPR0002421",
+      "ClassShortCode": "TPR0002421",
+      "ProgramName": [
+        "BLP PP1"
+      ],
+      "SchoolName": "Cambridge Matriculation Higher Secondary School",
+      "SchoolUUID": "3da2542b-8bad-4dcb-b26b-1ae97acde02d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "BE79795E-47AF-4D97-839A-5CF83E4B5DB9",
+      "ClassName": "II A TPR0002451",
+      "ClassShortCode": "TPR0002451",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "Cambridge Matriculation Higher Secondary School",
+      "SchoolUUID": "3da2542b-8bad-4dcb-b26b-1ae97acde02d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "D8670E95-6A26-422B-A108-6E4F3725690F",
+      "ClassName": "V B TPR0002482",
+      "ClassShortCode": "TPR0002482",
+      "ProgramName": [
+        "BLP Grade 5"
+      ],
+      "SchoolName": "Cambridge Matriculation Higher Secondary School",
+      "SchoolUUID": "3da2542b-8bad-4dcb-b26b-1ae97acde02d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "CE9C1778-B13F-4A7F-950A-729474CA7D19",
+      "ClassName": "V A TPR0002481",
+      "ClassShortCode": "TPR0002481",
+      "ProgramName": [
+        "BLP Grade 5"
+      ],
+      "SchoolName": "Cambridge Matriculation Higher Secondary School",
+      "SchoolUUID": "3da2542b-8bad-4dcb-b26b-1ae97acde02d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "D8182E22-70D4-4E4B-BAF9-8A2F06B15973",
+      "ClassName": "LKG B TPR0002422",
+      "ClassShortCode": "TPR0002422",
+      "ProgramName": [
+        "BLP PP1"
+      ],
+      "SchoolName": "Cambridge Matriculation Higher Secondary School",
+      "SchoolUUID": "3da2542b-8bad-4dcb-b26b-1ae97acde02d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "E1A26EB6-DB52-4571-B5CD-8B5F5E3BCDBA",
+      "ClassName": "I C TPR0002443",
+      "ClassShortCode": "TPR0002443",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Cambridge Matriculation Higher Secondary School",
+      "SchoolUUID": "3da2542b-8bad-4dcb-b26b-1ae97acde02d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "BEF75670-F858-4DA0-8CE6-8D4B23242F72",
+      "ClassName": "III A TPR0002461",
+      "ClassShortCode": "TPR0002461",
+      "ProgramName": [
+        "BLP Grade 3"
+      ],
+      "SchoolName": "Cambridge Matriculation Higher Secondary School",
+      "SchoolUUID": "3da2542b-8bad-4dcb-b26b-1ae97acde02d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "E64C2774-38D0-41E5-9973-AF961654C4D2",
+      "ClassName": "II B TPR0002452",
+      "ClassShortCode": "TPR0002452",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "Cambridge Matriculation Higher Secondary School",
+      "SchoolUUID": "3da2542b-8bad-4dcb-b26b-1ae97acde02d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "C4A4AFCD-2A93-45B4-B0F9-C60C0444A58C",
+      "ClassName": "II C TPR0002453",
+      "ClassShortCode": "TPR0002453",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "Cambridge Matriculation Higher Secondary School",
+      "SchoolUUID": "3da2542b-8bad-4dcb-b26b-1ae97acde02d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "C8A0B6C5-CAC1-4EF3-9069-D5105EB544A0",
+      "ClassName": "IV B TPR0002472",
+      "ClassShortCode": "TPR0002472",
+      "ProgramName": [
+        "BLP Grade 4"
+      ],
+      "SchoolName": "Cambridge Matriculation Higher Secondary School",
+      "SchoolUUID": "3da2542b-8bad-4dcb-b26b-1ae97acde02d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "4B9A11AC-8694-418D-A52E-E20B01141D33",
+      "ClassName": "I A TPR0002441",
+      "ClassShortCode": "TPR0002441",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Cambridge Matriculation Higher Secondary School",
+      "SchoolUUID": "3da2542b-8bad-4dcb-b26b-1ae97acde02d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "65FE4533-F073-4F1C-9DF5-E3963BA7ABEF",
+      "ClassName": "UKG B TPR0002432",
+      "ClassShortCode": "TPR0002432",
+      "ProgramName": [
+        "BLP PP2"
+      ],
+      "SchoolName": "Cambridge Matriculation Higher Secondary School",
+      "SchoolUUID": "3da2542b-8bad-4dcb-b26b-1ae97acde02d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "8886EB76-CF9E-4FB9-8E27-EFD96DD9EAB7",
+      "ClassName": "UKG C TPR0002433",
+      "ClassShortCode": "TPR0002433",
+      "ProgramName": [
+        "BLP PP2"
+      ],
+      "SchoolName": "Cambridge Matriculation Higher Secondary School",
+      "SchoolUUID": "3da2542b-8bad-4dcb-b26b-1ae97acde02d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "26701096-F07F-498F-B25E-F76729C7936B",
+      "ClassName": "III C TPR0002463",
+      "ClassShortCode": "TPR0002463",
+      "ProgramName": [
+        "BLP Grade 3"
+      ],
+      "SchoolName": "Cambridge Matriculation Higher Secondary School",
+      "SchoolUUID": "3da2542b-8bad-4dcb-b26b-1ae97acde02d"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "BBB95015-422D-48B9-9D95-0B1983E64AE6",
+      "ClassName": "V A CBE0030181",
+      "ClassShortCode": "CBE0030181",
+      "ProgramName": [
+        "BLP Grade 5"
+      ],
+      "SchoolName": "Metro Matriculation Higher Secondary School",
+      "SchoolUUID": "273c53ac-006f-4f02-b250-caeaa24283c7"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "4DCCF58F-7107-4A67-8C87-17F7DCE6539D",
+      "ClassName": "IV B CBE0030172",
+      "ClassShortCode": "CBE0030172",
+      "ProgramName": [
+        "BLP Grade 4"
+      ],
+      "SchoolName": "Metro Matriculation Higher Secondary School",
+      "SchoolUUID": "273c53ac-006f-4f02-b250-caeaa24283c7"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "BB5331A7-3F30-4E99-B1B0-1B8007461B23",
+      "ClassName": "V D CBE0030184",
+      "ClassShortCode": "CBE0030184",
+      "ProgramName": [
+        "BLP Grade 5"
+      ],
+      "SchoolName": "Metro Matriculation Higher Secondary School",
+      "SchoolUUID": "273c53ac-006f-4f02-b250-caeaa24283c7"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "D6687302-99C1-4E12-BF52-3A4B0ADD11C2",
+      "ClassName": "II C CBE0030153",
+      "ClassShortCode": "CBE0030153",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "Metro Matriculation Higher Secondary School",
+      "SchoolUUID": "273c53ac-006f-4f02-b250-caeaa24283c7"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "B2408144-B34A-42DF-9784-3EA5E3260234",
+      "ClassName": "I C CBE0030143",
+      "ClassShortCode": "CBE0030143",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Metro Matriculation Higher Secondary School",
+      "SchoolUUID": "273c53ac-006f-4f02-b250-caeaa24283c7"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "50CFF18A-D5D2-4E8B-9138-412FD6DE1EFC",
+      "ClassName": "UKG A CBE0030131",
+      "ClassShortCode": "CBE0030131",
+      "ProgramName": [
+        "BLP PP2"
+      ],
+      "SchoolName": "Metro Matriculation Higher Secondary School",
+      "SchoolUUID": "273c53ac-006f-4f02-b250-caeaa24283c7"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "13062E80-B22A-4F37-8B68-4680D743B00C",
+      "ClassName": "II A CBE0030151",
+      "ClassShortCode": "CBE0030151",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "Metro Matriculation Higher Secondary School",
+      "SchoolUUID": "273c53ac-006f-4f02-b250-caeaa24283c7"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "E9B43284-3BDE-4DF6-A272-561F6B026870",
+      "ClassName": "V B CBE0030182",
+      "ClassShortCode": "CBE0030182",
+      "ProgramName": [
+        "BLP Grade 5"
+      ],
+      "SchoolName": "Metro Matriculation Higher Secondary School",
+      "SchoolUUID": "273c53ac-006f-4f02-b250-caeaa24283c7"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "D23B1B36-7F3C-41A0-AE75-6CA0D756A2B2",
+      "ClassName": "IV C CBE0030173",
+      "ClassShortCode": "CBE0030173",
+      "ProgramName": [
+        "BLP Grade 4"
+      ],
+      "SchoolName": "Metro Matriculation Higher Secondary School",
+      "SchoolUUID": "273c53ac-006f-4f02-b250-caeaa24283c7"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "97C4C358-5CAE-44A5-B14C-749858E314E0",
+      "ClassName": "III A CBE0030161",
+      "ClassShortCode": "CBE0030161",
+      "ProgramName": [
+        "BLP Grade 3"
+      ],
+      "SchoolName": "Metro Matriculation Higher Secondary School",
+      "SchoolUUID": "273c53ac-006f-4f02-b250-caeaa24283c7"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "A25537E2-6C1F-4FC9-A938-AE0DB4E09080",
+      "ClassName": "I A CBE0030141",
+      "ClassShortCode": "CBE0030141",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Metro Matriculation Higher Secondary School",
+      "SchoolUUID": "273c53ac-006f-4f02-b250-caeaa24283c7"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "D0894674-6144-45E1-89AE-C1F7044A86D7",
+      "ClassName": "III C CBE0030163",
+      "ClassShortCode": "CBE0030163",
+      "ProgramName": [
+        "BLP Grade 3"
+      ],
+      "SchoolName": "Metro Matriculation Higher Secondary School",
+      "SchoolUUID": "273c53ac-006f-4f02-b250-caeaa24283c7"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "A7B40BA8-F561-4E14-9029-CC65B52873BE",
+      "ClassName": "LKG A CBE0030121",
+      "ClassShortCode": "CBE0030121",
+      "ProgramName": [
+        "BLP PP1"
+      ],
+      "SchoolName": "Metro Matriculation Higher Secondary School",
+      "SchoolUUID": "273c53ac-006f-4f02-b250-caeaa24283c7"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "0D0B65DC-3F2E-4F44-BE95-CE9A55C1C88C",
+      "ClassName": "III B CBE0030162",
+      "ClassShortCode": "CBE0030162",
+      "ProgramName": [
+        "BLP Grade 3"
+      ],
+      "SchoolName": "Metro Matriculation Higher Secondary School",
+      "SchoolUUID": "273c53ac-006f-4f02-b250-caeaa24283c7"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "79B21C89-2468-425B-9593-D8F69B358878",
+      "ClassName": "IV A CBE0030171",
+      "ClassShortCode": "CBE0030171",
+      "ProgramName": [
+        "BLP Grade 4"
+      ],
+      "SchoolName": "Metro Matriculation Higher Secondary School",
+      "SchoolUUID": "273c53ac-006f-4f02-b250-caeaa24283c7"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "4ABD29F6-B268-4C88-9D54-DD1D7FD81DDE",
+      "ClassName": "II B CBE0030152",
+      "ClassShortCode": "CBE0030152",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "Metro Matriculation Higher Secondary School",
+      "SchoolUUID": "273c53ac-006f-4f02-b250-caeaa24283c7"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "A6FA2860-033F-415E-9092-E02FB9D2CD67",
+      "ClassName": "III D CBE0030164",
+      "ClassShortCode": "CBE0030164",
+      "ProgramName": [
+        "BLP Grade 3"
+      ],
+      "SchoolName": "Metro Matriculation Higher Secondary School",
+      "SchoolUUID": "273c53ac-006f-4f02-b250-caeaa24283c7"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "AF7E3543-9FF7-4AE1-BC25-E75BAE261BBF",
+      "ClassName": "V C CBE0030183",
+      "ClassShortCode": "CBE0030183",
+      "ProgramName": [
+        "BLP Grade 5"
+      ],
+      "SchoolName": "Metro Matriculation Higher Secondary School",
+      "SchoolUUID": "273c53ac-006f-4f02-b250-caeaa24283c7"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "E87558BD-C303-4A04-A68C-F710C772819D",
+      "ClassName": "I B CBE0030142",
+      "ClassShortCode": "CBE0030142",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Metro Matriculation Higher Secondary School",
+      "SchoolUUID": "273c53ac-006f-4f02-b250-caeaa24283c7"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "E0B68B88-E5B2-4862-A498-FAF20023D211",
+      "ClassName": "IV D CBE0030174",
+      "ClassShortCode": "CBE0030174",
+      "ProgramName": [
+        "BLP Grade 4"
+      ],
+      "SchoolName": "Metro Matriculation Higher Secondary School",
+      "SchoolUUID": "273c53ac-006f-4f02-b250-caeaa24283c7"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "1AB34FF2-0C5A-4F0D-80DB-0C40FF7B6B9D",
+      "ClassName": "Grade 2 A shs NLE0003251",
+      "ClassShortCode": "NLE0003251",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "Sadhana School",
+      "SchoolUUID": "1ab1ec85-5cfd-46a7-86b6-7d1ef628cfe1"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "66B00364-2208-446D-A710-0CDFFF1B1474",
+      "ClassName": "Grade 3 A  NLE0003262",
+      "ClassShortCode": "NLE0003262",
+      "ProgramName": [
+        "BLP Grade 3"
+      ],
+      "SchoolName": "Sadhana School",
+      "SchoolUUID": "1ab1ec85-5cfd-46a7-86b6-7d1ef628cfe1"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "66B00364-2208-446D-A710-0CDFFF1B1474",
+      "ClassName": "Grade 3 A NLE0003262",
+      "ClassShortCode": "NLE0003262",
+      "ProgramName": [
+        "BLP Grade 3"
+      ],
+      "SchoolName": "Sadhana School",
+      "SchoolUUID": "1ab1ec85-5cfd-46a7-86b6-7d1ef628cfe1"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "5EE16B55-39EF-4E9F-ACE8-0E07704FB97A",
+      "ClassName": "Grade 5 A  NLE0003282",
+      "ClassShortCode": "NLE0003282",
+      "ProgramName": [
+        "BLP Grade 5"
+      ],
+      "SchoolName": "Sadhana School",
+      "SchoolUUID": "1ab1ec85-5cfd-46a7-86b6-7d1ef628cfe1"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "5EE16B55-39EF-4E9F-ACE8-0E07704FB97A",
+      "ClassName": "Grade 5 A NLE0003282",
+      "ClassShortCode": "NLE0003282",
+      "ProgramName": [
+        "BLP Grade 5"
+      ],
+      "SchoolName": "Sadhana School",
+      "SchoolUUID": "1ab1ec85-5cfd-46a7-86b6-7d1ef628cfe1"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "71A612A2-0A12-488F-85FF-3821103BDD85",
+      "ClassName": "PP1 A shs NLE0003221",
+      "ClassShortCode": "NLE0003221",
+      "ProgramName": [
+        "BLP PP1"
+      ],
+      "SchoolName": "Sadhana School",
+      "SchoolUUID": "1ab1ec85-5cfd-46a7-86b6-7d1ef628cfe1"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "DA22D5D0-BC46-4239-82F4-429B385FB839",
+      "ClassName": "Grade 3 A shs NLE0003261",
+      "ClassShortCode": "NLE0003261",
+      "ProgramName": [
+        "BLP Grade 3"
+      ],
+      "SchoolName": "Sadhana School",
+      "SchoolUUID": "1ab1ec85-5cfd-46a7-86b6-7d1ef628cfe1"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "89FD142E-BDFF-42FB-9B40-60CFD89B16B0",
+      "ClassName": "Grade 1 A  NLE0003242",
+      "ClassShortCode": "NLE0003242",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Sadhana School",
+      "SchoolUUID": "1ab1ec85-5cfd-46a7-86b6-7d1ef628cfe1"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "89FD142E-BDFF-42FB-9B40-60CFD89B16B0",
+      "ClassName": "Grade 1 A NLE0003242",
+      "ClassShortCode": "NLE0003242",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Sadhana School",
+      "SchoolUUID": "1ab1ec85-5cfd-46a7-86b6-7d1ef628cfe1"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "0C146E3B-EFC1-4FCB-904F-67754238FC18",
+      "ClassName": "Grade 2 A  NLE0003252",
+      "ClassShortCode": "NLE0003252",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "Sadhana School",
+      "SchoolUUID": "1ab1ec85-5cfd-46a7-86b6-7d1ef628cfe1"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "0C146E3B-EFC1-4FCB-904F-67754238FC18",
+      "ClassName": "Grade 2 A NLE0003252",
+      "ClassShortCode": "NLE0003252",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "Sadhana School",
+      "SchoolUUID": "1ab1ec85-5cfd-46a7-86b6-7d1ef628cfe1"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "33C94D79-04D5-4FE8-8A09-8F638E11AEFE",
+      "ClassName": "Grade 4 A  NLE0003272",
+      "ClassShortCode": "NLE0003272",
+      "ProgramName": [
+        "BLP Grade 4"
+      ],
+      "SchoolName": "Sadhana School",
+      "SchoolUUID": "1ab1ec85-5cfd-46a7-86b6-7d1ef628cfe1"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "33C94D79-04D5-4FE8-8A09-8F638E11AEFE",
+      "ClassName": "Grade 4 A NLE0003272",
+      "ClassShortCode": "NLE0003272",
+      "ProgramName": [
+        "BLP Grade 4"
+      ],
+      "SchoolName": "Sadhana School",
+      "SchoolUUID": "1ab1ec85-5cfd-46a7-86b6-7d1ef628cfe1"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "9DE03F87-3713-4EEC-8F35-9F1A93E75691",
+      "ClassName": "PP2 A  NLE0003232",
+      "ClassShortCode": "NLE0003232",
+      "ProgramName": [
+        "BLP PP2"
+      ],
+      "SchoolName": "Sadhana School",
+      "SchoolUUID": "1ab1ec85-5cfd-46a7-86b6-7d1ef628cfe1"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "9DE03F87-3713-4EEC-8F35-9F1A93E75691",
+      "ClassName": "PP2 A NLE0003232",
+      "ClassShortCode": "NLE0003232",
+      "ProgramName": [
+        "BLP PP2"
+      ],
+      "SchoolName": "Sadhana School",
+      "SchoolUUID": "1ab1ec85-5cfd-46a7-86b6-7d1ef628cfe1"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "853FEEEE-B26D-4671-B005-BAADAE8A311E",
+      "ClassName": "Grade 4 A shs NLE0003271",
+      "ClassShortCode": "NLE0003271",
+      "ProgramName": [
+        "BLP Grade 4"
+      ],
+      "SchoolName": "Sadhana School",
+      "SchoolUUID": "1ab1ec85-5cfd-46a7-86b6-7d1ef628cfe1"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "A59160AA-0719-4CF9-AC42-BC2766CB930C",
+      "ClassName": "PP2 A shs NLE0003231",
+      "ClassShortCode": "NLE0003231",
+      "ProgramName": [
+        "BLP PP2"
+      ],
+      "SchoolName": "Sadhana School",
+      "SchoolUUID": "1ab1ec85-5cfd-46a7-86b6-7d1ef628cfe1"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "8752EEF2-F8EC-4119-909C-C427F857E5EF",
+      "ClassName": "Grade 5 A shs NLE0003281",
+      "ClassShortCode": "NLE0003281",
+      "ProgramName": [
+        "BLP Grade 5"
+      ],
+      "SchoolName": "Sadhana School",
+      "SchoolUUID": "1ab1ec85-5cfd-46a7-86b6-7d1ef628cfe1"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "AF19AF1D-2A3A-4832-B686-E0580215398C",
+      "ClassName": "Grade 1 A shs NLE0003241",
+      "ClassShortCode": "NLE0003241",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Sadhana School",
+      "SchoolUUID": "1ab1ec85-5cfd-46a7-86b6-7d1ef628cfe1"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "458AF5C1-A3DA-48C8-850B-E4496AE8E5AE",
+      "ClassName": "PP1 A  NLE0003222",
+      "ClassShortCode": "NLE0003222",
+      "ProgramName": [
+        "BLP PP1"
+      ],
+      "SchoolName": "Sadhana School",
+      "SchoolUUID": "1ab1ec85-5cfd-46a7-86b6-7d1ef628cfe1"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "0C3D7C87-7D7D-46EB-9A7D-0C8737AACE00",
+      "ClassName": "PP2 Lillies pismk KRR0017632",
+      "ClassShortCode": "KRR0017632",
+      "ProgramName": [
+        "BLP PP2"
+      ],
+      "SchoolName": "Pavithra International school – Manikonda",
+      "SchoolUUID": "42a59d36-982f-41a7-8c02-942260d34190"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "6CA6B8CC-79E7-4669-A455-1743740E4CB8",
+      "ClassName": "PP1 Roses pismk KRR0017622",
+      "ClassShortCode": "KRR0017622",
+      "ProgramName": [
+        "BLP PP1"
+      ],
+      "SchoolName": "Pavithra International school – Manikonda",
+      "SchoolUUID": "42a59d36-982f-41a7-8c02-942260d34190"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "6E2FA316-8AAA-49D5-BD7A-64BE7D6CC93A",
+      "ClassName": "Grade 2 Soldiers pismk KRR0017653",
+      "ClassShortCode": "KRR0017653",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "Pavithra International school – Manikonda",
+      "SchoolUUID": "42a59d36-982f-41a7-8c02-942260d34190"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "A145CE08-EE28-4857-9A90-85259C0E1E56",
+      "ClassName": "Nursery Lillies pismk KRR0017611",
+      "ClassShortCode": "KRR0017611",
+      "ProgramName": [
+        "BLP Nursery"
+      ],
+      "SchoolName": "Pavithra International school – Manikonda",
+      "SchoolUUID": "42a59d36-982f-41a7-8c02-942260d34190"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "B5121F43-BB70-49CA-8AC6-BE2A76016BF6",
+      "ClassName": "Grade 1 Soldiers pismk KRR0017644",
+      "ClassShortCode": "KRR0017644",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Pavithra International school – Manikonda",
+      "SchoolUUID": "42a59d36-982f-41a7-8c02-942260d34190"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "8743ADA5-A827-4B4F-9207-3920E5F96C08",
+      "ClassName": "LKG E cghs HYD0081321",
+      "ClassShortCode": "HYD0081321",
+      "ProgramName": [
+        "BLP PP1"
+      ],
+      "SchoolName": "Cardinal Gracious High School",
+      "SchoolUUID": "86bef14b-6157-4f68-8fbe-e9f6b7648bac"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "7BA19F7F-67AF-4FC5-9CE6-754EF08900F1",
+      "ClassName": "III E cghs HYD0081361",
+      "ClassShortCode": "HYD0081361",
+      "ProgramName": [
+        "BLP Grade 3"
+      ],
+      "SchoolName": "Cardinal Gracious High School",
+      "SchoolUUID": "86bef14b-6157-4f68-8fbe-e9f6b7648bac"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "E54A71BA-661C-4D34-9813-97AAF48AEE75",
+      "ClassName": "II E cghs HYD0081351",
+      "ClassShortCode": "HYD0081351",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "Cardinal Gracious High School",
+      "SchoolUUID": "86bef14b-6157-4f68-8fbe-e9f6b7648bac"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "9F50DE5C-B4C1-4305-BC69-C9BD35492588",
+      "ClassName": "UKG E cghs HYD0081331",
+      "ClassShortCode": "HYD0081331",
+      "ProgramName": [
+        "BLP PP2"
+      ],
+      "SchoolName": "Cardinal Gracious High School",
+      "SchoolUUID": "86bef14b-6157-4f68-8fbe-e9f6b7648bac"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "9703F74F-9AD4-406E-ADBD-D1F24C672154",
+      "ClassName": "IV E cghs HYD0081371",
+      "ClassShortCode": "HYD0081371",
+      "ProgramName": [
+        "BLP Grade 4"
+      ],
+      "SchoolName": "Cardinal Gracious High School",
+      "SchoolUUID": "86bef14b-6157-4f68-8fbe-e9f6b7648bac"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "B7DD7E56-411D-42CF-A029-DCB1906323EA",
+      "ClassName": "I E cghs HYD0081342",
+      "ClassShortCode": "HYD0081342",
+      "ProgramName": [
+        "BLP Grade 1"
+      ],
+      "SchoolName": "Cardinal Gracious High School",
+      "SchoolUUID": "86bef14b-6157-4f68-8fbe-e9f6b7648bac"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "ClassUUID": "43221F11-6C1B-4F0B-BDB5-F0FA274212A8",
+      "ClassName": "V E cghs HYD0081381",
+      "ClassShortCode": "HYD0081381",
+      "ProgramName": [
+        "BLP Grade 5"
+      ],
+      "SchoolName": "Cardinal Gracious High School",
+      "SchoolUUID": "86bef14b-6157-4f68-8fbe-e9f6b7648bac"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "D4DD9D33-F0D7-4379-99E0-0BB9B6E8571D",
+      "ClassName": "2 E spssp EGI0008755",
+      "ClassShortCode": "EGI0008755",
+      "ProgramName": [
+        "BLP Grade 2"
+      ],
+      "SchoolName": "Sri Prakash Synergy School - Ramaraopeta",
+      "SchoolUUID": "2dbfe73f-4eb1-4a42-978a-9373a53e5c3f"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "ClassUUID": "33637898-3C66-455C-9880-1C350DC84BE3",
+      "ClassName": "PP2 H spssp EGI0008733",
+      "ClassShortCode": "EGI0008733",
+      "ProgramName": [
+        "BLP PP2"
+      ],
+      "SchoolName": "Sri Prakash Synergy School - Ramaraopeta",
+      "SchoolUUID": "2dbfe73f-4eb1-4a42-978a-9373a53e5c3f"
+    }
+  ]

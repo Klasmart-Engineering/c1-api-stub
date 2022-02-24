@@ -1,0 +1,10 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/KL/Organizations"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "organizations.json"
+    }
+}

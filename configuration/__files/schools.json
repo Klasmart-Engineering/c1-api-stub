@@ -1,0 +1,1000 @@
+[
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "SchoolUUID": "7295AE73-D203-4717-8E64-A646852F257D",
+      "SchoolName": "Mesco Grades School (Malakpet)",
+      "SchoolShortCode": "APHYD00160",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "SchoolUUID": "58242E89-2445-400A-99DD-6A7971412CA2",
+      "SchoolName": "Montessori English Medium High School",
+      "SchoolShortCode": "APKRL00011",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5",
+        "BLP Nursery",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "SchoolUUID": "D83AB062-9637-44D8-A22D-9B0974CFDBDA",
+      "SchoolName": "Annai Abirami Mat Hr Sec School",
+      "SchoolShortCode": "TNCBE00122",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "SchoolUUID": "333CE211-2012-4D3F-B171-4CCBF9E5AD9C",
+      "SchoolName": "The Regency Public School",
+      "SchoolShortCode": "KABGR00703",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Nursery",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "SchoolUUID": "F9DAB07B-17BE-4881-A80A-AD6549E75B47",
+      "SchoolName": "Chrysalis School",
+      "SchoolShortCode": "MNIMP00004",
+      "ProgramName": [
+        "BLP Grade 3",
+        "BLP Grade 4"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "SchoolUUID": "EF77E6F4-6266-4A62-980B-26E4522D3523",
+      "SchoolName": "Sapphire International School",
+      "SchoolShortCode": "UAGUR00099",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Nursery",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "SchoolUUID": "794C5203-9273-4CEB-9D32-04F9C300F9A8",
+      "SchoolName": "Sage School",
+      "SchoolShortCode": "APHYD00611",
+      "ProgramName": [
+        "BLP Nursery",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis Digital",
+      "OrganizationUUID": "8f6167ba-240e-4eeb-beec-0536ecb90403",
+      "SchoolUUID": "D9739F29-05D6-4A3B-8B0F-D1F55FFF3EDE",
+      "SchoolName": "M.E.C. Public School (CBSE)",
+      "SchoolShortCode": "KABGR01125",
+      "ProgramName": [
+        "BLP Upper Primary",
+        "Primary"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "SchoolUUID": "8415CB93-3CD8-48EA-9673-020E36CE04C0",
+      "SchoolName": "C.K.S. English School",
+      "SchoolShortCode": "KAHSN00010",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "SchoolUUID": "1AB1EC85-5CFD-46A7-86B6-7D1EF628CFE1",
+      "SchoolName": "Sadhana School",
+      "SchoolShortCode": "APNLE00032",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5",
+        "BLP Nursery",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "SchoolUUID": "42A59D36-982F-41A7-8C02-942260D34190",
+      "SchoolName": "Pavithra International school – Manikonda",
+      "SchoolShortCode": "APKRR00176",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Nursery",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "SchoolUUID": "2DBFE73F-4EB1-4A42-978A-9373A53E5C3F",
+      "SchoolName": "Sri Prakash Synergy School - Ramaraopeta",
+      "SchoolShortCode": "APEGI00087",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "SchoolUUID": "69F5F988-EE1C-4155-A3A2-F7D9AA3791E5",
+      "SchoolName": "Mesco Grades School (Asif Nagar)",
+      "SchoolShortCode": "APHYD01042",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "SchoolUUID": "9E9AC97B-81C6-43A5-9604-84CB31405CA6",
+      "SchoolName": "Pavithra International school – Lingampally",
+      "SchoolShortCode": "APHYD01167",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Nursery",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "SchoolUUID": "442DB744-7F3B-4C35-87C1-B6405DB012B0",
+      "SchoolName": "Chidvikas Vidya Mandir",
+      "SchoolShortCode": "TNCBE00422",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis Digital",
+      "OrganizationUUID": "8f6167ba-240e-4eeb-beec-0536ecb90403",
+      "SchoolUUID": "BC01B654-9A8D-4EE8-8971-6D5F7F061508",
+      "SchoolName": "M.E.C. Public School (ICSE)",
+      "SchoolShortCode": "KABGR01603",
+      "ProgramName": [
+        "BLP Upper Primary",
+        "Primary"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "SchoolUUID": "DDA6E6A6-2079-4CE0-AB88-466FF9FF75EE",
+      "SchoolName": "Golden Gates Vidhyashram",
+      "SchoolShortCode": "TNPRR00009",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "SchoolUUID": "CBF06DCF-AD4E-47C8-ACCE-2CC3210953B3",
+      "SchoolName": "Delhi Public School (Dharan)",
+      "SchoolShortCode": "SSSUN00001",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "SchoolUUID": "8FAF9842-A0B1-4890-85A6-A98E0C3D5E83",
+      "SchoolName": "Venkateshwaraa Matriculation School (JVMS)",
+      "SchoolShortCode": "TNCHE00748",
+      "ProgramName": [
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "SchoolUUID": "D6EB773C-F1B6-4F13-B8A1-A931C743B46E",
+      "SchoolName": "Shanthala Vidya Peetha",
+      "SchoolShortCode": "KAMSE00108",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "SchoolUUID": "B9F13635-1033-4842-AAAA-01AC0BE5FDD8",
+      "SchoolName": "Sri Prakash Synergy School - Dwaraka Nagar",
+      "SchoolShortCode": "APEGI00145",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "SchoolUUID": "F9D7C887-0B85-4672-84C3-CF1BC65669B4",
+      "SchoolName": "Gnanodaya Public School",
+      "SchoolShortCode": "KAMNA00052",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "SchoolUUID": "5F687D1E-5114-4D18-8FC8-B7BAE73E1642",
+      "SchoolName": "Sri Margadarshi Tadikonda Campus",
+      "SchoolShortCode": "APGNT00120",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "SchoolUUID": "F6FBB682-CF98-42E1-A401-D8B631D6DC01",
+      "SchoolName": "Gurukulam Matriculation Higher Secondary School",
+      "SchoolShortCode": "TNKNM00405",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "SchoolUUID": "EC652025-2CA1-4AC7-A061-E5EA56E23829",
+      "SchoolName": "Shree Bharath Vidyaashram",
+      "SchoolShortCode": "POPNY00122",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Nursery",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "SchoolUUID": "D56B7102-3F27-410E-B2A4-1C94AB20013E",
+      "SchoolName": "Shree Gurukulam Public School",
+      "SchoolShortCode": "TNEOE00219",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis Digital",
+      "OrganizationUUID": "8f6167ba-240e-4eeb-beec-0536ecb90403",
+      "SchoolUUID": "E302DA10-0B3F-4E2A-B97F-CE59862F6325",
+      "SchoolName": "M.E.C English Primary and High School",
+      "SchoolShortCode": "KABGR01987",
+      "ProgramName": [
+        "BLP Upper Primary",
+        "Primary"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "SchoolUUID": "78EEBD8E-34A8-4CE4-A7A3-FF37F38E6B66",
+      "SchoolName": "Kamaraj Nursery And Primary School",
+      "SchoolShortCode": "TNEOE00224",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "SchoolUUID": "DE444785-70BE-42A8-859E-8FA71A711879",
+      "SchoolName": "Akshara School",
+      "SchoolShortCode": "KLPLD00155",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "SchoolUUID": "BD6939E4-F4AB-4A45-A5AA-B4E7559E6162",
+      "SchoolName": "Ideal Radiant Public School",
+      "SchoolShortCode": "DLWDL00290",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "SchoolUUID": "C83928CB-2CA5-441A-8CFB-2576F732F27B",
+      "SchoolName": "Bharti Model School",
+      "SchoolShortCode": "DLNEW00075",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "SchoolUUID": "8108A04D-C17A-403D-9809-8DD051A9C434",
+      "SchoolName": "Monté International School",
+      "SchoolShortCode": "APKRL00174",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Nursery",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "SchoolUUID": "77BACB22-BE95-4357-B95A-DE93A36AF916",
+      "SchoolName": "Kingmaker's Noble School-Namakkal",
+      "SchoolShortCode": "TNNML00156",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "SchoolUUID": "AE12D0D4-F704-4ED7-B7EE-CEFBC4FB4DFC",
+      "SchoolName": "Noble Kids School",
+      "SchoolShortCode": "APCDH00047",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "SchoolUUID": "927D5634-5D29-41AD-B7F7-3C12A694EDEE",
+      "SchoolName": "Avasar Pre Primary School",
+      "SchoolShortCode": "KABNL00085",
+      "ProgramName": [
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "SchoolUUID": "B563DEDA-B9D6-470F-A25B-D4B016472421",
+      "SchoolName": "May Flower Kids Nursery and Primary School",
+      "SchoolShortCode": "TNVLE00285",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "SchoolUUID": "D095F8C5-67AD-481E-BD93-1C86FD9A5349",
+      "SchoolName": "Love And Care School",
+      "SchoolShortCode": "KLPLD00169",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5",
+        "BLP Nursery",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "SchoolUUID": "C5FF7640-17A7-4992-9B50-6541A6E162F6",
+      "SchoolName": "Narbhavi Vidyalaya Nursery And Primary School",
+      "SchoolShortCode": "TNCDE00141",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5",
+        "BLP Nursery",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "SchoolUUID": "5B014AAD-3C4F-4213-AD1E-EE17DE9D5B04",
+      "SchoolName": "Government Model Primary School",
+      "SchoolShortCode": "HRGRN00222",
+      "ProgramName": [
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "SchoolUUID": "9224FA0D-2FC6-4C01-A195-1277C4A888E0",
+      "SchoolName": "Cynthia International School",
+      "SchoolShortCode": "TEHYD02074",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Nursery",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "SchoolUUID": "D98D10BB-2025-4C55-B752-4274FD67622D",
+      "SchoolName": "Brundavan School",
+      "SchoolShortCode": "APCTO00132",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5",
+        "BLP Nursery",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "SchoolUUID": "419BDBF4-BE0E-49A3-ABBB-AD686E340199",
+      "SchoolName": "Little Flower Vidyaniketan, Monippally",
+      "SchoolShortCode": "KLKTM00158",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "SchoolUUID": "4DB39393-2AA2-4A01-814C-1A488C0E1123",
+      "SchoolName": "Avasar School - Varthur",
+      "SchoolShortCode": "KABGR02243",
+      "ProgramName": [
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "SchoolUUID": "59F15309-BA82-4073-9C04-4645447E9605",
+      "SchoolName": "Pavithra International school – Karmanghat",
+      "SchoolShortCode": "TEHYD02099",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Nursery",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "SchoolUUID": "610B1293-B48C-42C7-B514-0461197B89F5",
+      "SchoolName": "Kothari International School",
+      "SchoolShortCode": "UAGUR00289",
+      "ProgramName": [
+        "BLP Grade 4",
+        "BLP Grade 5"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "SchoolUUID": "3D5A0958-2B83-46FE-A528-35A30809F47E",
+      "SchoolName": "Prestigious School of Excellence",
+      "SchoolShortCode": "TEHYD02133",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5",
+        "BLP Nursery",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "SchoolUUID": "C6251C15-4780-48C1-B00F-B45C07D7B174",
+      "SchoolName": "Poppins Pre-school",
+      "SchoolShortCode": "TNVLE00381",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "SchoolUUID": "0B92ECE2-695B-47CF-9038-88D1DB6664F6",
+      "SchoolName": "Delhi Public Secondary School",
+      "SchoolShortCode": "TETSR00011",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "SchoolUUID": "ED320796-F1F3-4245-BF9E-D1C08E53664A",
+      "SchoolName": "Vani Vidyalayam",
+      "SchoolShortCode": "APGNT00245",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "SchoolUUID": "41DC5EB5-F0BB-4654-821E-94889312EE1F",
+      "SchoolName": "Brindavan Matriculation School",
+      "SchoolShortCode": "TNDAI00101",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5",
+        "BLP Nursery",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "SchoolUUID": "8658E39D-E43D-4566-A994-129D7C7539CD",
+      "SchoolName": "BIS Royal",
+      "SchoolShortCode": "APKSN00589",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "SchoolUUID": "4001D217-4252-492C-A223-FF9C0579E770",
+      "SchoolName": "Kalaimagal Matriculation Higher Secondary School",
+      "SchoolShortCode": "TNTPR00171",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "SchoolUUID": "067523D8-87A7-4741-9432-36F210239B91",
+      "SchoolName": "Sapphire International School - Cr",
+      "SchoolShortCode": "UAGHA00437",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Nursery",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "SchoolUUID": "06B4EB60-D197-4973-930A-E9B2C3EC1D2A",
+      "SchoolName": "Government High Tech Kannada English Medium School",
+      "SchoolShortCode": "KABGR02383",
+      "ProgramName": [
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "SchoolUUID": "4656136D-7359-4744-8034-005B992EC23A",
+      "SchoolName": "Government Higher Primary School",
+      "SchoolShortCode": "KABGR02384",
+      "ProgramName": [
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "SchoolUUID": "F1573DF0-3361-4346-9164-667B7C69AF47",
+      "SchoolName": "Kikani Global Academy",
+      "SchoolShortCode": "TNCBE00610",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5",
+        "BLP Nursery",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "SchoolUUID": "6A4C9B8B-BA76-4887-BC3D-0632D331180D",
+      "SchoolName": "National Public School-Ranebennur",
+      "SchoolShortCode": "KAHVI00037",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5",
+        "BLP Nursery",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis Digital",
+      "OrganizationUUID": "8f6167ba-240e-4eeb-beec-0536ecb90403",
+      "SchoolUUID": "B2CD16E1-7851-421E-A3F0-4EC4A83A9AD5",
+      "SchoolName": "Jain Toddlers",
+      "SchoolShortCode": "TEKRR00239",
+      "ProgramName": [
+        "KG Level 1",
+        "KG Level 2",
+        "Nursery Level"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "SchoolUUID": "4690DFDB-E94B-4436-A366-ED80AB1FA3CD",
+      "SchoolName": "Pastel Pre - Primary",
+      "SchoolShortCode": "KABGR02402",
+      "ProgramName": [
+        "BLP Nursery",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Premium",
+      "OrganizationUUID": "81c430b4-3750-4103-bb7d-9eee22c539bc",
+      "SchoolUUID": "817B8365-36B2-4366-8E8E-B964C8978589",
+      "SchoolName": "The Global Innoverro School",
+      "SchoolShortCode": "KABGR02403",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Nursery",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "SchoolUUID": "27601910-0CCB-4F05-B698-562753CEFDB3",
+      "SchoolName": "National Public School - Haunsbhavi",
+      "SchoolShortCode": "KAHVI00039",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "SchoolUUID": "A49B8E0B-1F77-4C8A-80D3-2F3A8348BD5B",
+      "SchoolName": "Holy Angels Matric Hr Sec School",
+      "SchoolShortCode": "TNCBE00614",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "SchoolUUID": "0E8F6497-48EC-4D51-B635-224B2C474620",
+      "SchoolName": "Holy Angles Nursery And Primary School",
+      "SchoolShortCode": "TNCBE00615",
+      "ProgramName": [
+        "BLP Grade 1",
+        "BLP Grade 2",
+        "BLP Grade 3",
+        "BLP Grade 4",
+        "BLP Grade 5",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis Digital",
+      "OrganizationUUID": "8f6167ba-240e-4eeb-beec-0536ecb90403",
+      "SchoolUUID": "9F9C4FB8-7776-4CD3-9C50-30FC5584FCE9",
+      "SchoolName": "My Pink Petals",
+      "SchoolShortCode": "TNCHE01386",
+      "ProgramName": [
+        "KG Level 1",
+        "KG Level 2",
+        "Nursery Level",
+        "Primary"
+      ],
+      "Source": "Chrysalis"
+    },
+    {
+      "OrganizationName": "Chrysalis BLP Classic",
+      "OrganizationUUID": "849bce42-1c81-4b53-a37b-5064bf8097a5",
+      "SchoolUUID": "25AC9F09-9672-4940-A05B-C9F5188E9363",
+      "SchoolName": "Yadvkha Play School",
+      "SchoolShortCode": "TNDNL00169",
+      "ProgramName": [
+        "BLP Nursery",
+        "BLP PP1",
+        "BLP PP2"
+      ],
+      "Source": "Chrysalis"
+    }
+  ]
