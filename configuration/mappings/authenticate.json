@@ -1,0 +1,10 @@
+{
+    "request": {
+        "method": "POST",
+        "url": "/Accounts/Authenticate-KL"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "authenticate.json"
+    }
+}
