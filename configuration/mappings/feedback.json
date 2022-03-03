@@ -6,7 +6,7 @@
 			},
 			"response": {
 				"status": 200,
-				"body": "{{parseJson request.body 'bodyJson'}}[{{#each bodyJson}}{  \n  \"UUID\": \"{{this.UUID}}\",\n  \"Entity\":\"{{this.Entity}}\",\n  \"HasSuccess\": {{this.HasSuccess}},\n  \"ErrorMessage\": {{#each this.ErrorMessage}}[ \"{{this}}\" ]{{/each}},\n  \"OutputResult\": {\n    \"Status\": true,\n    \"Messages\": \"Success\"\n  }\n}{{#unless @last}},{{/unless}}{{/each}}]"
+				"body": "{{parseJson request.body 'bodyJson'}}[{{#each bodyJson}}{  \n  \"UUID\": \"{{this.UUID}}\",\n  \"Entity\":\"{{this.Entity}}\",\n  \"HasSuccess\": {{this.HasSuccess}},\n  \"ErrorMessage\": [{{#each this.ErrorMessage}}\"{{this}}\"{{#unless @last}},{{/unless}}{{/each}}],\n  \"OutputResult\": {\n    \"Status\": true,\n    \"Messages\": \"Success\"\n  }\n}{{#unless @last}},{{/unless}}{{/each}}]"
 			}
 		},
 		{
@@ -16,7 +16,7 @@
 			},
 			"response": {
 				"status": 200,
-				"body": "{{parseJson request.body 'bodyJson'}}[{{#each bodyJson}}{  \n  \"UUID\": \"{{this.UUID}}\",\n  \"Entity\":\"{{this.Entity}}\",\n  \"HasSuccess\": {{this.HasSuccess}},\n  \"ErrorMessage\": {{#each this.ErrorMessage}}[ \"{{this}}\" ]{{/each}},\n  \"OutputResult\": {\n    \"Status\": true,\n    \"Messages\": \"Success\"\n  }\n}{{#unless @last}},{{/unless}}{{/each}}]"
+				"body": "{{parseJson request.body 'bodyJson'}}[{{#each bodyJson}}{  \n  \"UUID\": \"{{this.UUID}}\",\n  \"Entity\":\"{{this.Entity}}\",\n  \"HasSuccess\": {{this.HasSuccess}},\n  \"ErrorMessage\": [{{#each this.ErrorMessage}}\"{{this}}\"{{#unless @last}},{{/unless}}{{/each}}],\n  \"OutputResult\": {\n    \"Status\": true,\n    \"Messages\": \"Success\"\n  }\n}{{#unless @last}},{{/unless}}{{/each}}]"
 			}
 		}
 	]
